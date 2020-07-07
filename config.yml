@@ -1,0 +1,26 @@
+locked-icon-material: "gray_dye"
+
+default-message: "%killer% killed %victim%"
+
+messages:
+  demolished:
+    message: "&4%killer% demolished %victim%"
+    display-name: '&4Demolished'
+    lore:
+      - "Demolish your opponents"
+      - "%lock-state%"
+    material: "name_tag"
+  flattened:
+    message: "&6%killer% flattened %victim%"
+    display-name: '&6Flattened'
+    lore:
+      - "&eFlatten your opponents"
+      - "%lock-state%"
+    material: "diamond_axe"
+  rekt:
+    message: "&4%killer% rekt %victim%"
+    display-name: "&dREKT"
+    lore:
+      - "Your opponents will get REKT"
+      - "%lock-state%"
+    material: "totem_of_undying"

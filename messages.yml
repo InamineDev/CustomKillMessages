@@ -1,0 +1,5 @@
+no-console: "&cConsole cannot use this command (can still use /customkm reload)"
+reload-complete: "&aConfig and messages reloaded!"
+inventory-title: "&4&lKill Messages"
+unlocked: "&a&lUnlocked!"
+locked: "&7Locked"

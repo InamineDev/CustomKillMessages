@@ -1,0 +1,16 @@
+name: CustomKillMessages
+author: Inamine
+website: discord.inamine.me
+description: Let your players unlock new kill messages
+main: me.inamine.CKM.Main
+version: 1.0
+api-version: 1.13
+permissions:
+  customkm.*:
+    default: op
+  customkm.reload:
+    default: op
+commands:
+    killmessage:
+        description: Opens Kill Message GUI
+        usage: /<command> [reload]
